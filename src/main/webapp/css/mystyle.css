@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.primary-bg {
+	background: #2196f3 !important;
+}
+
+.banner-bottom {
+	padding-bottom: 40px;
+}
+
+.welcome {
+	padding-top: 7px;
+}
+
+.mycard-form {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.c {
+	text-decoration: none;
+}
